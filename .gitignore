@@ -43,3 +43,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Database Id
+lib/service/auth_service.dart
+lib/service/notes_service.dart
+lib/service/storage_service.dart
+lib/service/user_service.dart
